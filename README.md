@@ -1,16 +1,5 @@
 #  CyberGuard - Cybersecurity Awareness Chatbot
 
-**Part 3 / Programming POE**
-
-|                 |                        |
-| --------------- | ---------------------- |
-| **Student**     | Me'chellee             |
-| **Module**      | Programming (C# / WPF) |
-| **Institution** | Rosebank College - IIE |
-| **GitHub**      | MitchelMudiwa          |
-
----
-
 ##   Project Overview
 
 **CyberGuard** is a WPF-based Cybersecurity Awareness Chatbot designed to educate users about common cybersecurity threats and promote safer online behaviour.
