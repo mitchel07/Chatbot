@@ -50,7 +50,7 @@ CyberChatbotPOE/
 
 ---
 
-# ⚙️ Setup Instructions
+#   Setup Instructions
 
 ## 1. Prerequisites
 
